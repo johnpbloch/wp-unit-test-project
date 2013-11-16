@@ -1,0 +1,6 @@
+{
+	"name": "johnpbloch/wp-unit-test-project",
+	"description": "A starter project for your WordPress plugin or theme unit tests",
+	"type": "project",
+	"license": "GPL-2.0+"
+}
