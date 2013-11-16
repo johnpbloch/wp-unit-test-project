@@ -10,6 +10,7 @@
 		}
 	],
 	"require": {
-		"10up/wp_mock": "dev-master"
+		"10up/wp_mock": "dev-master",
+		"phpunit/phpunit": "~3.7@stable"
 	}
 }
