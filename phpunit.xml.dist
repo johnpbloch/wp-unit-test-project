@@ -1,0 +1,4 @@
+<phpunit backupGlobals="false"
+         bootstrap="./autoload.php"
+         colors="true">
+</phpunit>
