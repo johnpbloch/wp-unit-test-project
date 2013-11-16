@@ -1,4 +1,9 @@
 <phpunit backupGlobals="false"
          bootstrap="./autoload.php"
          colors="true">
+    <testsuites>
+        <testsuite>
+            <directory suffix=".php">tests/</directory>
+        </testsuite>
+    </testsuites>
 </phpunit>
