@@ -3,12 +3,6 @@
 	"description": "A starter project for your WordPress plugin or theme unit tests",
 	"type": "project",
 	"license": "GPL-2.0+",
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/10up/wp_mock"
-		}
-	],
 	"require": {
 		"10up/wp_mock": "dev-master",
 		"phpunit/phpunit": "~3.7@stable"
