@@ -28,10 +28,10 @@ I like to add `./vendor/bin` to the front of my environment `$PATH` so that I ca
 phpunit
 ```
 
-If you're using Windows you might have to run the tests with this command:
+If you're using Windows your command will be:
 
 ```
-php vendor/bin/phpunit
+vendor\bin\phpunit
 ```
 
 ### Next Steps
